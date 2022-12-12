@@ -1,3 +1,6 @@
+.SILENT:
+	SHELL=/bin/bash
+	.SHELLFLAGS=--norc --noprofile -e -u -o pipefail -c
 project:
 	gcc -std=c99 -Wall -Wpedantic -o dist/project.exe project.c
 	./dist/project.exe
