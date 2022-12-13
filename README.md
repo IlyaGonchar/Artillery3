@@ -6,4 +6,4 @@
 # Linux
 <img width="350" alt="Linux" src="https://user-images.githubusercontent.com/83245775/207237964-d65c631a-3704-413a-b16c-7f9b30c48f22.png">
 # Web
-<img width="350" alt="Web" scr="https://user-images.githubusercontent.com/83245775/207251523-ac488f3e-23c5-421e-bf5f-66fb981d08d8.png">
+<img width="304" alt="image" src="https://user-images.githubusercontent.com/83245775/207252733-61ba5b25-c1d4-4fc7-a8a0-d4c01926e7eb.png">
